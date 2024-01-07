@@ -1,0 +1,87 @@
+body {
+    text-align: center;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+    background-image: url("image/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 70px;
+    margin: 100px 0;
+    font-family: "Candara", "Helvetica Neue";
+    text-shadow: -2px 0 black, 0 2px black, 1px 0 black, 0 2px black;
+    color: #b88a81 ;
+    background-color: ivory;
+    padding: 30px;
+}
+
+.definition {
+    font-size: 20px;
+    margin: auto;
+    width: 50%;
+    background-color: rgb(207, 166, 85);
+    padding: 70px;
+    border-radius: 40px;
+    border: 1px solid black;
+    
+}
+
+img {
+    margin: 40px 0;
+    width: 60%;
+}
+
+h2{
+    font-size: 60px;
+    margin: 70px 0;
+    font-family: "Candara", "Helvetica Neue";
+    text-shadow: -2px 0 black, 0 2px black, 1px 0 black, 0 2px black;
+    color: #a87c73 ;
+}
+
+.pb {
+    font-size: 30px;
+    margin: auto;
+    width: 50%;
+    background-color: rgb(207, 166, 85);
+    padding: 70px;
+    border-radius: 40px;
+    border: 1px solid black;
+    
+}
+
+button {
+    font-size: 20px;
+    padding: 20px 50px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    width: 50%;
+    margin: 20px;
+}
+
+button:hover {
+    background-color: rgb(253, 217, 162);
+    font-size: 25px;
+}
+
+button:active {
+    background-color: rgb(255, 255, 255);
+}
+
+a {
+    text-decoration: none !important;
+    color: inherit;
+}
+
+a:active {
+    color: white;
+}
+
+a:hover {
+    color: #846761;
+}
